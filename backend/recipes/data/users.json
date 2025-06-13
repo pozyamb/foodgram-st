@@ -1,0 +1,17 @@
+[
+    {
+      "model": "users.user",
+      "pk": 1,
+      "fields": {
+        "username": "admin",
+        "email": "admin@tpu.ru",
+        "password": "pbkdf2_sha256$600000$tT0fN7l0QcU88kCgWylgTC$/D8yHxSG12uqac0A2nqKDg1rMuLGjXs6QCfO/G9e9kM=",  
+        "is_active": true,
+        "is_staff": true,
+        "is_superuser": true,
+        "first_name": "Админ",
+        "last_name": "Админов",
+        "avatar": "avatars/admin.jpeg"
+      }
+    }
+  ]
